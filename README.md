@@ -1,5 +1,5 @@
 
-# Hi, I'm Your Name 👋
+# Hi, I'm Yash Gurav 👋
 
 ### 🎓 Data Science Student | Aspiring Data Scientist
 
@@ -13,7 +13,7 @@ Data Analytics, Machine Learning and Artificial Intelligence.
 - 🐍 Learning Python and SQL
 - 📊 Interested in Data Analysis & Visualization
 - 🤖 Exploring Machine Learning
-- 📚 Continuously learning and building projects
+- 📚 Continuously learning and building    projects
 - 💼 Open to Data Science Internship Opportunities
 
 ### 🛠️ Technical Skills
@@ -35,9 +35,9 @@ and contribute to real-world projects.
 
 ### 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
-- GitHub: https://github.com/yourusername
+- LinkedIn:https://www.linkedin.com/in/yash-gurav-a808a5398?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: yashgurav200@gmail.com
+- GitHub: https://github.com/yashgurav-rgb
 
 ---
 ⭐ Thanks for visiting my profile!
