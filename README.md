@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**yashgurav-rgb/yashgurav-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Your Name 👋
 
-Here are some ideas to get you started:
+### 🎓 Data Science Student | Aspiring Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub Profile!
+
+I'm a passionate Data Science student interested in
+Data Analytics, Machine Learning and Artificial Intelligence.
+
+### 🚀 About Me
+- 🎓 Currently pursuing Data Science
+- 🐍 Learning Python and SQL
+- 📊 Interested in Data Analysis & Visualization
+- 🤖 Exploring Machine Learning
+- 📚 Continuously learning and building projects
+- 💼 Open to Data Science Internship Opportunities
+
+### 🛠️ Technical Skills
+
+- Programming: Python, SQL
+- Data Analysis: Pandas, NumPy
+- Visualization: Matplotlib, Seaborn
+- Machine Learning: Scikit-learn
+- Tools: Jupyter Notebook, VS Code, Git, GitHub
+- Database: MySQL
+
+### 📂 Featured Projects
+
+Coming Soon! Stay tuned for my projects.
+
+### 🎯 Career Goals
+To gain practical experience in Data Science
+and contribute to real-world projects.
+
+### 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- Email: YOUR_EMAIL
+- GitHub: https://github.com/yourusername
+
+---
+⭐ Thanks for visiting my profile!
+
